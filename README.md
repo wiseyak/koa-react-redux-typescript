@@ -4,7 +4,7 @@ This is an example implementation of redux sample todo app in typescript and a s
 ## Requirements
 * [Node.js](https://nodejs.org/en/) >= 6.5.0
 
-# Getting Started
+## Getting Started
 1. Installation
 * Install dependencies
         $ npm install
