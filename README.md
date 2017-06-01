@@ -1,10 +1,10 @@
-#Introduction
-This is a bare-bones starter template for koa-react web application in typescript. Why? - because sometimes you just need a basic setup without the bloat.
+# Introduction
+This is an example implementation of redux sample todo app in typescript and a server side implementation of koa/react
 
-##Requirements
+## Requirements
 * [Node.js](https://nodejs.org/en/) >= 6.5.0
 
-#Getting Started
+# Getting Started
 1. Installation
 * Install dependencies
         $ npm install
