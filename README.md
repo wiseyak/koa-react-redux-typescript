@@ -7,12 +7,16 @@ This is an example implementation of redux sample todo app in typescript and a s
 ## Getting Started
 1. Installation
 * Install dependencies
+
         $ npm install
 * Build react app
+
         $ npm run app-build
 * Build koa server
+
         $ npm run build
 
 2. Run
+
         $ node ./build/index.js
 
